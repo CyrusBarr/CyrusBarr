@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+##Streak
+
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CyrusBarr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&ring=5BF7CCFF" alt="naZreenmanZ" /></p>
 <!--
 **CyrusBarr/CyrusBarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:-->
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
