@@ -1,4 +1,4 @@
-### Hi, I'm Nihal Manzoor 👋
+### Hi, I'm CyrusBarr 👋
 
 ## Streak
 
